@@ -61,12 +61,6 @@ Operations & Account Manager with 10+ years of diverse experience spanning inves
 ## 🌟 What Sets Me Apart
 My unique background in dance and theatre, combined with extensive experience in tech and operations, allows me to approach problems with creativity while maintaining technical precision. I specialize in bringing clarity to complexity and building efficient, scalable solutions.
 
-## 📈 Notable Projects
-- Led the development and launch of DevRel Careers platform
-- Managed comprehensive educational institution operations
-- Implemented automated workflow systems for operational efficiency
-- Developed and executed technical marketing strategies
-
 ## 📫 Let's Connect!
 - Email: hi@annikapuura.com
 - Website: [annikapuura.com](https://annikapuura.com)
