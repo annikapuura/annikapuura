@@ -5,7 +5,7 @@ Operations & Account Manager with 10+ years of diverse experience spanning inves
 
 🌟 Currently: Operations Manager at Draft.dev  
 🌍 Location: Working Remotely  
-📧 Contact: hi@annikapuura.com
+📧 Contact: hey@annikapuura.com
 
 ## 💼 Professional Journey
 
@@ -62,7 +62,7 @@ Operations & Account Manager with 10+ years of diverse experience spanning inves
 My unique background in dance and theatre, combined with extensive experience in tech and operations, allows me to approach problems with creativity while maintaining technical precision. I specialize in bringing clarity to complexity and building efficient, scalable solutions.
 
 ## 📫 Let's Connect!
-- Email: hi@annikapuura.com
+- Email: hey@annikapuura.com
 - Website: [annikapuura.com](https://annikapuura.com)
 
 ---
