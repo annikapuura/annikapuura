@@ -2,19 +2,16 @@
 
 ## 🚀 About Me
 Operations & Account Manager with 10+ years of diverse experience spanning investment banking, education, and B2B tech. Bringing creativity and technical solutions to complex operational challenges.
-
-🌟 Currently: Operations Manager at Draft.dev  
+ 
 🌍 Location: Working Remotely  
 📧 Contact: hey@annikapuura.com
 
 ## 💼 Professional Journey
 
-### Current Role
-**Operations Manager at Draft.dev** (2023 - Present)
+**Operations Manager at Draft.dev** (2023 - 2026)
 - Leading operational processes and client strategies at a technical marketing agency
 - Blending internal process management with external client relationship building
 
-### Previous Experience
 - **Job Board Manager at Draft.dev** (2022 - 2023)
   - Built and launched DevRel Careers job board from scratch
   - Grew community to 5,000+ subscribers
